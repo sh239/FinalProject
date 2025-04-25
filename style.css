@@ -1,0 +1,14 @@
+/* DEVELOPER: Saber Hossain, IS117-102, Spring 2025 */
+
+body {
+    font-size: 1em;
+    color: #333;
+    background-color: #f8f9fa;
+}
+
+.card img {
+    height: 1000px;
+    object-fit: cover;
+}
+
+
